@@ -1,0 +1,14 @@
+[
+    { 
+	    "keys": ["f5"], "command": "insert_datetime",
+	    "args": {"format": "ymd"}
+	},
+	{ 
+	    "keys": ["alt+f5"], "command": "insert_datetime",
+	    "args": {"format": "ymdhms"}
+	},
+    {
+	    "keys": ["ctrl+f5"], "command": "insert_datetime",
+    	"args": {"format": "E"}
+	}
+]
