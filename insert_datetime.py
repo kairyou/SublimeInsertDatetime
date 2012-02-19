@@ -5,7 +5,7 @@ class insertDatetimeCommand(sublime_plugin.TextCommand):
   def run(self, edit, format):
     timestamp = datetime.datetime.now()
     if format == "ymd":
-        # yyyy-mm-dd
+        # yyyy-MM-dd
         timestamp = timestamp.strftime("%Y-%m-%d")
     elif format == "ymdhms":
         # %X = %H:%M:%S

@@ -9,6 +9,6 @@ sublime text2 插入日期插件
 2. 重启Sublime Text
 
 使用：
-F5 : yyyy-mm-dd
-alt+F5 : yyyy-mm-dd hh:mm:ss
+F5 : yyyy-MM-dd
+alt+F5 : yyyy-MM-dd hh:mm:ss
 ctrl+F5 : 星期E
