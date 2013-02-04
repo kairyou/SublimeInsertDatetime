@@ -1,14 +1,18 @@
 
-sublime text2 插入日期插件
+**insert datetime pugin for sublime text2/3**
 
-@date    2012-02-18
-@link    http://www.fantxi.com/blog/
-
-安装：
-1. 把insert-datetime解压到：文件夹 Sublime Text2\Data\Packages\ 内
+##### Installation:
+1. 把insert-datetime解压到：文件夹 Sublime Text\Data\Packages\ 内
 2. 重启Sublime Text
 
-使用：
-F5 : yyyy-MM-dd
-alt+F5 : yyyy-MM-dd hh:mm:ss
-ctrl+F5 : 星期E
+##### Key Bindings:
+yyyy-MM-dd: ```F5```
+yyyy-MM-dd hh:mm:ss: ```alt+F5```
+星期E: ```ctrl+F5```
+
+---
+
+@date    2013-02-04
+@link    [source][0] [中文文档][1]
+[0]: https://github.com/kairyou/SublimeInsertDatetime
+[1]: http://www.fantxi.com/blog/
