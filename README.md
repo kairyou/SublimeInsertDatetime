@@ -6,13 +6,13 @@
 2. 重启Sublime Text
 
 ##### Key Bindings:
-yyyy-MM-dd: ```F5```
-yyyy-MM-dd hh:mm:ss: ```alt+F5```
-星期E: ```ctrl+F5```
+yyyy-MM-dd: ```F5```  
+yyyy-MM-dd hh:mm:ss: ```alt+F5```  
+星期E: ```ctrl+F5```  
 
 ---
 
-@date    2013-02-04
+@date    2013-02-04  
 @link    [source][0] [中文文档][1]
 [0]: https://github.com/kairyou/SublimeInsertDatetime
 [1]: http://www.fantxi.com/blog/
